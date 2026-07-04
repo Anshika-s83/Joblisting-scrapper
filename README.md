@@ -1,1 +1,1 @@
-# Task10
+In this project I web scrapped and used 5 fields which are title company location salary and skills to get data of jobs. It was done using Indeed url and post which I was searing for was Data Analyst data was stored in form of dataframe by using pandas that is the library of python to create and work with dataframes.
